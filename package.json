@@ -3,5 +3,10 @@
     "@capacitor/android": "^7.2.0",
     "@capacitor/cli": "^7.2.0",
     "@capacitor/core": "^7.2.0"
-  }
+  },
+  "scripts": {
+  "cap:sync": "npx cap sync",
+  "build": "your-build-command-if-any"
+}
+
 }
